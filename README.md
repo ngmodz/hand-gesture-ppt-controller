@@ -8,13 +8,6 @@ Control your presentations with hand gestures using your webcam! Navigate slides
 - Erase annotations with three fingers
 - Real-time hand tracking
 
-## Installation
-```bash
-git clone https://github.com/ngmodz/hand-gesture-ppt-controller.git
-cd hand-gesture-ppt-controller
-pip install opencv-python cvzone numpy
-```
-
 ## Setup
 1. Place your presentation images (PNG) in the `Presentation` folder
 2. Run: `python final.py`
